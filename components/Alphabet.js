@@ -10,8 +10,11 @@ const alphabetList = [
   "D",
   "E",
   "F",
+  "G",
   "H",
   "I",
+  "J",
+  "K",
   "L",
   "M",
   "N",
@@ -23,11 +26,13 @@ const alphabetList = [
   "T",
   "U",
   "V",
+  "W",
+  "X",
+  "Y",
   "Z"
 ];
 
 const settings = {
-  infinite: true,
   speed: 200,
   slidesToShow: 1,
   slidesToScroll: 1
